@@ -8,8 +8,7 @@ This project I made beacause want to learn how to consime API and get API JSON.
 
 ## Mockup iOS App
 
-<img src="/Mockup/d-movie_mockup.png" alt="Mockup app" title="Mockup app">
-
+![Alt text](/Mockup/movie_mockup.png "Mockup")
 
 ## Getting Started
 
