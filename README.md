@@ -6,6 +6,11 @@ Consume API from Movie DB using SwiftUI and UIKit
 
 This project I made beacause want to learn how to consime API and get API JSON.
 
+## Mockup iOS App
+
+<img src="/mockup.png" alt="Mockup app" title="Mockup app">
+
+
 ## Getting Started
 
 ## Installing
